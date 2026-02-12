@@ -28,6 +28,7 @@
         </scm>
         <properties>
                 <java.version>19</java.version>
+                <start-class>com.spring.learn.learn_spring_framework.AppGamingBasic</start-class>
         </properties>
         <dependencies>
                 <dependency>
